@@ -8,3 +8,5 @@
 Chace0219/Chace0219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnsonlm&layout=compact&theme=dark) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsonlm\&rank_icon=github&hide_title=true&theme=dark)
