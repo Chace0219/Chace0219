@@ -1,5 +1,5 @@
 
-<h3 align="center">A software developer from the United States</h3>
+<h1 align="center">A software developer/engineer </h1>
 
 - 👀 I’m interested in internet of things, embedded systems, software architecture, pattern programming etc ...
 - 🌱 I’m currently learning rust and programming architectures ...
