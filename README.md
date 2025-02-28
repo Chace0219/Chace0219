@@ -11,3 +11,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chace0219&show_icons=true&locale=en&layout=compact&langs_count=8" alt="Chace0219" /></p>
 
 ![Chace's GitHub stats](https://github-readme-stats.vercel.app/api?username=chace0219&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chace0219&" alt="chace0219" /></p>
