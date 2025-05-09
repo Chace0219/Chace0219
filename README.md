@@ -12,11 +12,12 @@
 
 ![Chace's GitHub stats](https://github-readme-stats.vercel.app/api?username=chace0219&show_icons=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chace0219&" alt="chace0219" /></p>
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chace0219&layout=compact" />
+</div>
 
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Chace0219" alt="chace0219" /></a> </p>
-<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Chace0219&column=10&theme=gruvbox&no-frame=true"/>
+</a>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chace0219&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p> -->
