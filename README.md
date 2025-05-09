@@ -13,7 +13,7 @@
 ![Chace's GitHub stats](https://github-readme-stats.vercel.app/api?username=chace0219&show_icons=true&theme=radical)
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Chace0219&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chace0219&layout=compact" />
 </div>
 
