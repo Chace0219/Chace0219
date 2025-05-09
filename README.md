@@ -15,7 +15,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chace0219&" alt="chace0219" /></p>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=dev-king21" alt="dev-king21" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="1000px" src="https://github-profile-trophy.vercel.app/?username=Chace0219" alt="chace0219" /></a> </p>
 <br>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Chace0219&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
