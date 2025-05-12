@@ -13,9 +13,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chace0219&layout=compact&langs_count=8" />
 </div>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Chace0219&column=10&theme=gruvbox&no-frame=true"/>
-</a>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chace0219&" alt="chace" /></p>
 
